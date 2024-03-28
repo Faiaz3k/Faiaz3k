@@ -1,9 +1,4 @@
-#  💫 About Me:
-# 🔭 welcome to my portfolio <br>🤝 I’m Devoloper and researcher<br>💬 with more then 7 year experience <br>
-
-<h1 align="center">Hi 👋, I'm Faiaz</h1>
-<h3 align="center">Devoloper and Resh</h3>
-
+# 💫 About Me : 🔭 welcome to my portfolio <br>🤝 I’m Devoloper and researcher<br>💬 with more then 7 year experience <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,6 +6,7 @@
 
 
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Faiaz3k&theme=dark&hide_border=false)<br/>
+
+
