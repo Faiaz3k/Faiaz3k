@@ -5,11 +5,12 @@
 
 
 <p align="center">
- # 📊 GitHub Stats:
+ 
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=Faiaz3k&theme=dark&hide_border=false"
 alt="Description of the image" />
-</p
-<br>
+</p>
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Description of the image" />
 </p>
