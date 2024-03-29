@@ -1,6 +1,6 @@
 
  💫 About Me:
-🔭 welcome to my portfolio <br>🤝 I’m Devoloper and researcher<br>💬 with more then 7 year experience <br>
+🔭 welcome to my portfolio <br>🤝 I’m Developer and researcher<br>💬 with more then 7 year experience <br>
 
 
 
