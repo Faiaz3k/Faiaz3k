@@ -1,7 +1,11 @@
 
  💫 About Me:
 🔭 welcome to my portfolio <br>🤝 I’m Developer and researcher<br>💬 with more then 7 year experience <br>
-Owner of https://github.com/Tech-Revaluation-Org
+
+<a href="https://github.com/Tech-Revaluation-Org" style="display: inline-block; padding: 5px 10px; background: #2D333B; border-radius: 4px; color: white; text-decoration: none;">
+  <img src="https://avatars.githubusercontent.com/u/48489820?s=50&v=4" alt="Tech Revaluation Org" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+  Owner of Tech-Revaluation-Org
+</a>
 
 
 
