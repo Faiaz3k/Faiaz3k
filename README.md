@@ -12,7 +12,7 @@
 </a>
 <br><br>
 <a href="https://github.com/Ereunetis" style="display: inline-block; padding: 5px 10px; background: #2D333B; border-radius: 4px; color: white; text-decoration: none;">
-  <img src="https://avatars.githubusercontent.com/u/12345678?s=50&v=4" alt="Ereunetis" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+  <img src="https://avatars.githubusercontent.com/u/48489766?s=200&v=4" alt="Ereunetis" style="height: 25px; vertical-align: middle; margin-right: 8px;">
   Owner of Ereunetis Research Base Org
 </a>
 
