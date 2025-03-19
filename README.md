@@ -2,7 +2,8 @@
 
 # About Me
 
-🔭 Welcome to my portfolio!  
+💫 Welcome to my portfolio!
+🔭 I am a Researcher
 🤝 I am a Developer and Researcher with over 7 years of experience.  
 💬 Passionate about creating innovative solutions and advancing technology.
 
