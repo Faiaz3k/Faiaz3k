@@ -3,9 +3,13 @@
 # About Me
 
 💫 Welcome to my portfolio!
+<br>
 🔭 I am a Researcher
+<br>
 🤝 I am a Developer and Researcher with over 7 years of experience.  
+<br>
 💬 Passionate about creating innovative solutions and advancing technology.
+<br>
 
 <a href="https://github.com/Tech-Revaluation-Org" style="display: inline-block; padding: 5px 10px; background: #2D333B; border-radius: 4px; color: white; text-decoration: none;">
   <img src="https://avatars.githubusercontent.com/u/48489820?s=200&v=4" alt="Tech Revaluation Org" style="height: 25px; vertical-align: middle; margin-right: 8px;">
