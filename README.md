@@ -7,7 +7,7 @@
 💬 Passionate about creating innovative solutions and advancing technology.
 
 <a href="https://github.com/Tech-Revaluation-Org" style="display: inline-block; padding: 5px 10px; background: #2D333B; border-radius: 4px; color: white; text-decoration: none;">
-  <img src="[https://avatars.githubusercontent.com/u/48489766?s=200&v=4](https://avatars.githubusercontent.com/u/48489820?s=200&amp;v=4)" alt="Tech Revaluation Org" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+  <img src="https://avatars.githubusercontent.com/u/48489820?s=200&v=4" alt="Tech Revaluation Org" style="height: 25px; vertical-align: middle; margin-right: 8px;">
   Owner of Tech-Revaluation-Org
 </a>
 <br><br>
